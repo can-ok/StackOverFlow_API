@@ -1,0 +1,77 @@
+{
+   "items": [
+      {
+         "creation_date": 1525756192,
+         "last_applied_date": 1581774626,
+         "applied_count": 199,
+         "to_tag": "java",
+         "from_tag": "javax"
+      },
+      {
+         "creation_date": 1517600671,
+         "last_applied_date": 1582624795,
+         "applied_count": 1084,
+         "to_tag": "java",
+         "from_tag": "openjdk"
+      },
+      {
+         "creation_date": 1468858983,
+         "last_applied_date": 1582561579,
+         "applied_count": 82,
+         "to_tag": "java",
+         "from_tag": "oraclejdk"
+      },
+      {
+         "creation_date": 1408392375,
+         "last_applied_date": 1557336217,
+         "applied_count": 58,
+         "to_tag": "java",
+         "from_tag": "java-libraries"
+      },
+      {
+         "creation_date": 1377674210,
+         "last_applied_date": 1582200658,
+         "applied_count": 1119,
+         "to_tag": "java",
+         "from_tag": "jre"
+      },
+      {
+         "creation_date": 1377674185,
+         "last_applied_date": 1582200658,
+         "applied_count": 2091,
+         "to_tag": "java",
+         "from_tag": "jdk"
+      },
+      {
+         "creation_date": 1309971294,
+         "last_applied_date": 1577737384,
+         "applied_count": 93,
+         "to_tag": "java",
+         "from_tag": "core-java"
+      },
+      {
+         "creation_date": 1309951237,
+         "last_applied_date": 1569217332,
+         "applied_count": 151,
+         "to_tag": "java",
+         "from_tag": "j2se"
+      },
+      {
+         "creation_date": 1306826783,
+         "last_applied_date": 1577798084,
+         "applied_count": 96,
+         "to_tag": "java",
+         "from_tag": ".java"
+      },
+      {
+         "creation_date": 1284690882,
+         "last_applied_date": 1576842078,
+         "applied_count": 80,
+         "to_tag": "java",
+         "from_tag": "java-se"
+      }
+   ],
+   "has_more": false,
+   "quota_max": 300,
+   "quota_remaining": 149
+}

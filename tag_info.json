@@ -1,0 +1,14 @@
+{
+   "items": [
+      {
+         "has_synonyms": true,
+         "is_moderator_only": false,
+         "is_required": false,
+         "count": 1355853,
+         "name": "python"
+      }
+   ],
+   "has_more": false,
+   "quota_max": 300,
+   "quota_remaining": 219
+}
