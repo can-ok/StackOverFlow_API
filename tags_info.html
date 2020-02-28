@@ -1,0 +1,20 @@
+{% extends "layout.html" %}
+{%block body %}
+
+<form action="{{go}}" method="post">
+
+    <div class="form-group">
+        <label for="comment">JSON</label>
+        <textarea name="text_area" class="form-control" rows="10" id="comment">{{json_obj}}</textarea>
+      </div>
+    
+    <div class="input-group">
+      <div class="input-group-prepend">
+          <span class="input-group-text" id="">{{textbox_name}}</span>
+      </div>
+        <input name="file_name" type="text" class="form-control">
+        <button type="submit" class="btn btn-primary">Save</button>
+    
+    </form>
+
+    {%endblock %}
